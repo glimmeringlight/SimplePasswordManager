@@ -2,7 +2,7 @@
 
 A simple password manager built with WPF.
 
-![image-20240316154601948](C:\Users\31371\AppData\Roaming\Typora\typora-user-images\image-20240316154601948.png)
+![image-20240316154601948](./docs/screenshot.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ The executable file is available via Github Release. There's no need for install
    dotnet build ./PasswordManager/PasswordManager.csproj -c Release
    ```
 
-The executable file is locate in `./PasswordManager/bin/Release/net8.0-windows`.
+The executable file is located in `./PasswordManager/bin/Release/net8.0-windows`.
 
 ## Special notifications
 
